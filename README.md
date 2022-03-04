@@ -4,7 +4,7 @@
 - ⚙️ Trabalho atualmente como suporte N2 em banco de dados.
 - ✨ Estudando PHP e Javascript.
 - 👨‍🎓 Faço atualmente faculdade de: Análise e desenvolvimento de sistemas 4 semestre. 
-- Futuro Programador front end jr.
+- 🤝Futuro Programador front end jr.
 
 <div align="center">
   <a href="https://github.com/ClarkFranca">
