@@ -1,9 +1,9 @@
 ## Olá! Me chamo Clark França.
 
 
-- ⚙️ Trabalho atualmente como Análista em banco de dados jr N3.
-- ✨ Estudando react e Javascript.
-- 👨‍🎓 Faço atualmente faculdade de: Análise e desenvolvimento de sistemas /4 semestre. 
+- ⚙️ Análista em banco de dados Pleno N3.
+- ✨ Sempre me mantendo atualizado nas novas linguagens.
+- 👨‍🎓 Faço atualmente faculdade de: Análise e desenvolvimento de sistemas /5 semestre. 
 - 🤝Futuro Programador front end jr.
 
 <div align="center">
