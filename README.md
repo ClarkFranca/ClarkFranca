@@ -4,7 +4,7 @@
 - ⚙️ Análista em banco de dados Pleno N3.
 - ✨ Sempre me mantendo atualizado nas novas linguagens.
 - 👨‍🎓 Faço atualmente faculdade de: Análise e desenvolvimento de sistemas /5 semestre. 
-- 🤝Futuro Programador front end jr.
+- 🤝Futuro Programador Full Stack.
 
 <div align="center">
   <a href="https://github.com/ClarkFranca">
