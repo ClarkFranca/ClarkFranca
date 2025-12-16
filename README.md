@@ -3,7 +3,7 @@
 <!-- 🎬 Vídeo curto (5s) -->
 
 <div align="center">
-  <img src="Desenvolvimento.gif" width="600" style="border-radius: 12px;" />
+  <img src="assets/Desenvolvimento.gif" width="600" style="border-radius: 12px;" />
 </div>
 
 ---
